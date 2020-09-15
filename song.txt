@@ -5,3 +5,5 @@
 and yes
 and no
 -----------
+
+conflict solving training
