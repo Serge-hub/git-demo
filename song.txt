@@ -5,7 +5,3 @@
 and yes
 and no
 -----------
-
-new couplet
-
-add second couplet
